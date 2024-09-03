@@ -1,27 +1,24 @@
-# AppointmentApp
+# Appointment App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+Welcome to my Appointment App! This project was created using **Angular** and **Bootstrap**, leveraging Angular version 16. Using this version allowed me to avoid using standalone components, which streamlined the development process.
 
-## Development server
+## What I Learned
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Throughout this project, I gained valuable experience in several key areas:
 
-## Code scaffolding
+- **ngFor**: Implemented *ngFor* to efficiently loop through data and display it within the app.
+- **One-way and Two-way Binding**: Explored both one-way and two-way data binding techniques to handle dynamic data and user input effectively.
+- **Method Binding**: Learned how to bind methods to HTML button clicks, enhancing the app's interactivity and functionality.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Next Steps
 
-## Build
+This project has been a fantastic learning experience, and I am excited to scale up from here. My future plans include developing larger-scale projects and potentially incorporating a backend to further enhance the functionality of my applications.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Connect with Me
 
-## Running unit tests
+Feel free to connect with me on social media. You can find me under my handle **@kelvinintech**.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+Thank you for checking out my project! Stay tuned for more updates as I continue to grow and expand my skills in web development.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
