@@ -2,6 +2,11 @@
 
 Welcome to my Appointment App! This project was created using **Angular** and **Bootstrap**, leveraging Angular version 16. Using this version allowed me to avoid using standalone components, which streamlined the development process.
 
+## Features
+
+- **Local Storage**: Integrated local storage to save user data, providing a seamless experience by retaining information even after the browser is closed.
+- **Mobile Responsive**: Utilized Bootstrap to ensure the app is fully mobile responsive, offering an optimal experience across different devices.
+
 ## What I Learned
 
 Throughout this project, I gained valuable experience in several key areas:
@@ -21,4 +26,3 @@ Feel free to connect with me on social media. You can find me under my handle **
 ---
 
 Thank you for checking out my project! Stay tuned for more updates as I continue to grow and expand my skills in web development.
-
